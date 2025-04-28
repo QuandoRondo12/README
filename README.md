@@ -1,5 +1,20 @@
 <h2 align="left">Olá, eu sou Lucas! 👋</h2>
 
+
+###
+
+<p align="left">📚  Atualmente estudando:  Python</p>
+
+###
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
 ###
 
 <div align="center">
@@ -11,17 +26,4 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/6e8s5.jpg"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/QuandoRondo12/QuandoRondo12/output/snake.svg" alt="Snake animation" />
-
-###
