@@ -27,3 +27,10 @@
 <img align="right" height="150" src="https://i.imgflip.com/6e8s5.jpg"  />
 
 
+###
+
+<img src="https://raw.githubusercontent.com/QuandoRondo12/QuandoRondo12/output/snake.svg" alt="Snake animation" />
+
+###
+
+
